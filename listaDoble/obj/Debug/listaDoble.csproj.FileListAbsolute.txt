@@ -1,0 +1,9 @@
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\listaEnlazadaDoble\listaDoble\listaDoble\bin\Debug\listaDoble.exe.config
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\listaEnlazadaDoble\listaDoble\listaDoble\bin\Debug\listaDoble.exe
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\listaEnlazadaDoble\listaDoble\listaDoble\bin\Debug\listaDoble.pdb
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\listaEnlazadaDoble\listaDoble\listaDoble\obj\Debug\listaDoble.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\listaEnlazadaDoble\listaDoble\listaDoble\obj\Debug\listaDoble.Form1.resources
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\listaEnlazadaDoble\listaDoble\listaDoble\obj\Debug\listaDoble.Properties.Resources.resources
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\listaEnlazadaDoble\listaDoble\listaDoble\obj\Debug\listaDoble.csproj.GenerateResource.Cache
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\listaEnlazadaDoble\listaDoble\listaDoble\obj\Debug\listaDoble.exe
+C:\Users\chris\Desktop\4 semestre\Estructura de datos\2da parcial\listaEnlazadaDoble\listaDoble\listaDoble\obj\Debug\listaDoble.pdb
